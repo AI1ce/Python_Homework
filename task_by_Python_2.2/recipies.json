@@ -1,0 +1,53 @@
+{
+    "\u0441\u0430\u043b\u0430\u0442": [
+        {
+            "quantity": 100,
+            "ingredient_name": "\u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b",
+            "measure": "\u0433\u0440."
+        },
+        {
+            "quantity": 100,
+            "ingredient_name": "\u043e\u0433\u0443\u0440\u0446\u044b",
+            "measure": "\u0433\u0440."
+        },
+        {
+            "quantity": 100,
+            "ingredient_name": "\u043c\u0430\u0441\u043b\u043e",
+            "measure": "\u043c\u043b."
+        },
+        {
+            "quantity": 1,
+            "ingredient_name": "\u043b\u0443\u043a",
+            "measure": "\u0448\u0442."
+        }
+    ],
+    "\u0441\u0442\u0435\u0439\u043a": [
+        {
+            "quantity": 300,
+            "ingredient_name": "\u0433\u043e\u0432\u044f\u0434\u0438\u043d\u0430",
+            "measure": "\u0433\u0440."
+        },
+        {
+            "quantity": 5,
+            "ingredient_name": "\u0441\u043f\u0435\u0446\u0438\u0438",
+            "measure": "\u0433\u0440."
+        },
+        {
+            "quantity": 10,
+            "ingredient_name": "\u043c\u0430\u0441\u043b\u043e",
+            "measure": "\u043c\u043b."
+        }
+    ],
+    "\u044f\u0439\u0447\u043d\u0438\u0446\u0430": [
+        {
+            "quantity": 2,
+            "ingredient_name": "\u044f\u0439\u0446\u0430",
+            "measure": "\u0448\u0442."
+        },
+        {
+            "quantity": 100,
+            "ingredient_name": "\u043f\u043e\u043c\u0438\u0434\u043e\u0440\u044b",
+            "measure": "\u0433\u0440."
+        }
+    ]
+}
