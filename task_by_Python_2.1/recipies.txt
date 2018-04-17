@@ -1,0 +1,11 @@
+Omelet
+3
+Eggs | 2 | pieces
+Milk | 50 | ml
+Tomatoes | 100 | gm
+Charlotte
+4
+Eggs | 5 | pieces
+Flour | 1 | glass
+Sugar | 1 | glass
+Apples | 400 | gm
